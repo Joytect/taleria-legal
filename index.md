@@ -70,4 +70,4 @@ If you have questions about this privacy policy, please contact us at:
 
 ---
 
-© 2024 Taleria. All rights reserved.
+© 2026 Taleria. All rights reserved.

@@ -103,7 +103,8 @@ The app does not generate human-like faces in realistic form, face swaps, deepfa
 ## Safety & Privacy
 
 - Designed for children ages 2–9 under parental supervision
-- No ads, no tracking, no data selling
+- Free tier includes age-appropriate ads; paid tiers are ad-free
+- Anonymous analytics only (Firebase); no data selling
 - Full parental control system with PIN protection
 - Content filtering and theme blocking built in
 - Compliant with children's privacy regulations

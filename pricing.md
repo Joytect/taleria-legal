@@ -51,7 +51,7 @@ Everything in Pro, plus:
 
 ## General Information
 
-- Subscriptions are billed monthly
+- Subscriptions are billed monthly or annually
 - You can upgrade, downgrade, or cancel at any time
 - Downgrades take effect at the end of your current billing period
 - Story limits reset monthly

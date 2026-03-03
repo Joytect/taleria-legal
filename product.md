@@ -16,6 +16,11 @@ The app is designed exclusively for use by children under parental supervision, 
 
 Every story is different. Every story is theirs.
 
+<p align="center">
+  <img src="assets/screenshots/homeScreen.png" alt="Taleria Home Screen" width="300">
+  <img src="assets/screenshots/storyView.png" alt="Story Reading View" width="300">
+</p>
+
 ---
 
 ## Key Features

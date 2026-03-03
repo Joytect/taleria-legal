@@ -85,6 +85,10 @@ To exercise any of these rights, contact us at **joytect25@gmail.com**. We will 
 
 ## Parental Controls
 
+<p align="center">
+  <img src="assets/screenshots/parentalControl.png" alt="Parental Controls Screen" width="300">
+</p>
+
 Parents can:
 - Set a PIN to protect settings
 - Block specific story themes

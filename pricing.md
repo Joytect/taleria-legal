@@ -4,6 +4,11 @@
 
 Taleria offers three subscription tiers for AI-powered children's stories.
 
+<p align="center">
+  <img src="assets/screenshots/freePlan.png" alt="Free Plan" width="300">
+  <img src="assets/screenshots/maxPlan.png" alt="Max Plan" width="300">
+</p>
+
 ---
 
 ## Free

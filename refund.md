@@ -8,7 +8,7 @@ Taleria delivers AI-generated stories that are consumed instantly upon generatio
 
 ## Cancellation
 
-- You may cancel your subscription at any time
+- You may cancel your subscription at any time from within the app under **Settings > Account > Manage Subscription**
 - Access continues until the end of your current billing period
 - No partial refunds are issued for unused time
 

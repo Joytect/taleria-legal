@@ -53,14 +53,17 @@ Story generation uses third-party AI services. When generating a story:
 - Generated content is returned and stored locally on your device
 
 ### Payment Processing
-Subscription payments are processed by our third-party payment provider. We do not directly store or handle your payment information (credit card numbers, billing addresses). Payment data is managed entirely by the payment provider subject to their own privacy policy.
+Subscription payments are processed by **Paddle** (paddle.com), who acts as our Merchant of Record. Paddle handles all payment processing, invoicing, sales tax, and refunds. We do not directly store or handle your payment information (credit card numbers, billing addresses). Payment data is managed entirely by Paddle subject to their [Privacy Policy](https://www.paddle.com/legal/privacy).
 
 ### Subscription Management
 We use third-party services to manage subscriptions and verify entitlements. These services receive your anonymous device identifier and subscription status.
 
+### Analytics
+We do not use any analytics tools or third-party tracking services. The app does not contain analytics SDKs, advertising frameworks, or behavioral profiling tools.
+
 ## Children's Privacy (COPPA Compliance)
 
-Taleria is designed for children ages 2–9 under parental supervision. We are committed to protecting children's privacy:
+Taleria is designed for children ages 2-9 under parental supervision. We are committed to protecting children's privacy:
 - We do not collect personal information directly from children
 - All personal data (child profiles) remains on the device
 - Server-side data uses anonymous device identifiers only

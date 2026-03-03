@@ -21,7 +21,7 @@ Taleria offers three subscription tiers for AI-powered children's stories.
 
 ## Pro
 
-**$12.99 USD / month**
+**$12.99 USD / month** or **$129.90 USD / year** (2 months free)
 
 Everything in Free, plus:
 
@@ -38,7 +38,7 @@ Everything in Free, plus:
 
 ## Max
 
-**$16.99 USD / month**
+**$16.99 USD / month** or **$169.90 USD / year** (2 months free)
 
 Everything in Pro, plus:
 
@@ -52,6 +52,7 @@ Everything in Pro, plus:
 ## General Information
 
 - Subscriptions are billed monthly or annually
+- Annual plans include 2 months free compared to monthly billing
 - You can upgrade, downgrade, or cancel at any time
 - Downgrades take effect at the end of your current billing period
 - Story limits reset monthly

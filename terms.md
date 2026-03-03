@@ -15,9 +15,9 @@ This app is designed for children ages 2-9 under adult supervision. Parents and 
 ## 3. Subscriptions and Payments
 
 - Taleria offers free and paid subscription tiers (Pro and Max)
-- Subscriptions are billed monthly or annually through your app store or payment provider
+- Subscriptions are billed monthly or annually
 - You may cancel your subscription at any time; access continues until the end of the billing period
-- Refunds are handled according to the policies of your payment provider
+- Refunds are handled according to our [Refund Policy](https://joytect.github.io/taleria-legal/refund)
 - We reserve the right to change pricing with reasonable notice
 
 ## 4. Acceptable Use

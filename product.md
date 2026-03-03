@@ -66,7 +66,8 @@ Children cannot access settings, make purchases, or change parental restrictions
 | **Illustrations** | Basic | AI-generated | AI-generated |
 | **Narration** | Device TTS | AI voices | AI voices |
 | **Devices** | 1 | 1 | Up to 3 |
-| **Price** | Free | $12.99/mo | $16.99/mo |
+| **Monthly** | Free | $12.99/mo | $16.99/mo |
+| **Yearly** | Free | $129.90/yr | $169.90/yr |
 
 [View full pricing details →](https://joytect.github.io/taleria-legal/pricing)
 

@@ -38,7 +38,7 @@ Despite safety measures, AI may occasionally generate unexpected content. Theme 
 
 ## 7. Data Usage
 
-Stories are generated using third-party AI services. Story prompts and settings (theme, age, character type) may be sent to AI providers. We do not store or share personal information. For full details, see our [Privacy Policy](https://joytect.github.io/taleria-legal/).
+Stories are generated using third-party AI services. Story parameters (theme, age bracket, character type) are sent to AI providers to generate content. We also store anonymous device identifiers and usage data on our servers to manage subscriptions and enforce usage limits. No personally identifiable information (such as child names or ages) is stored on our servers. For full details, see our [Privacy Policy](https://joytect.github.io/taleria-legal/).
 
 ## 8. Intellectual Property
 

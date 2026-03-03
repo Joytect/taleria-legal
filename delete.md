@@ -39,7 +39,7 @@ When you request data deletion, the following data stored on our servers will be
 
 | Data Type | Reason |
 |-----------|--------|
-| Subscription purchase records | Managed by RevenueCat and Google Play / Apple. Subject to their respective data retention policies. |
+| Subscription purchase records | Managed by our payment and subscription providers. Subject to their respective data retention policies. |
 | Cached story content (R2 storage) | Shared content cache, not linked to individual users. |
 
 ---

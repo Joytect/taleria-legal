@@ -4,7 +4,7 @@ title: Data Deletion Request - Taleria
 
 # Data Deletion Request
 
-**Taleria** — AI-Powered Stories for Children
+**Taleria**: AI-Powered Stories for Children
 
 ---
 

@@ -71,12 +71,12 @@ Taleria is designed for children ages 2–9 under parental supervision. We are c
 
 If you are located in the European Economic Area (EEA), you have the following rights regarding your data:
 
-- **Right of Access** — You may request a copy of the data we hold about you
-- **Right to Rectification** — You may request correction of inaccurate data
-- **Right to Erasure** — You may request deletion of your data (see [Data Deletion](https://joytect.github.io/taleria-legal/delete))
-- **Right to Restriction** — You may request that we limit processing of your data
-- **Right to Data Portability** — You may request your data in a portable format
-- **Right to Object** — You may object to the processing of your data
+- **Right of Access**: You may request a copy of the data we hold about you
+- **Right to Rectification**: You may request correction of inaccurate data
+- **Right to Erasure**: You may request deletion of your data (see [Data Deletion](https://joytect.github.io/taleria-legal/delete))
+- **Right to Restriction**: You may request that we limit processing of your data
+- **Right to Data Portability**: You may request your data in a portable format
+- **Right to Object**: You may object to the processing of your data
 
 To exercise any of these rights, contact us at **joytect25@gmail.com**. We will respond within 30 days.
 

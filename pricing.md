@@ -1,4 +1,4 @@
-# Pricing — Taleria
+# Pricing: Taleria
 
 **Last Updated:** March 3, 2026
 

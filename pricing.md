@@ -15,6 +15,7 @@ Taleria offers three subscription tiers for AI-powered children's stories.
 
 **$0 / forever**
 
+- Ad-supported (age-appropriate ads)
 - 3 stories per month
 - Up to 3 chapters per story
 - Short chapters (100-150 words)

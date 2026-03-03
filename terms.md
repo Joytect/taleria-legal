@@ -19,6 +19,7 @@ This app is designed for children ages 2-9 under adult supervision. Parents and 
 ## 3. Subscriptions and Payments
 
 - Taleria offers free and paid subscription tiers (Pro and Max)
+- The free tier is ad-supported with age-appropriate ads; paid tiers (Pro and Max) are ad-free
 - Subscriptions are billed monthly or annually
 - You may cancel your subscription at any time; access continues until the end of the billing period
 - Refunds are handled according to our [Refund Policy](https://joytect.github.io/taleria-legal/refund)
@@ -50,11 +51,7 @@ Stories are generated using third-party AI services. Story parameters (theme, ag
 - AI-generated stories are provided for your personal, non-commercial use
 - You may not redistribute or sell AI-generated content
 
-## 9. Service Availability
-
-We do not guarantee uninterrupted access to the app or story generation service. We may modify, suspend, or discontinue features at any time without prior notice.
-
-## 10. Changes to These Terms
+## 9. Changes to These Terms
 
 We may update these terms from time to time. Changes will be reflected in the "Last Updated" date. Continued use of the app after changes constitutes acceptance of the revised terms.
 

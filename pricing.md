@@ -51,7 +51,7 @@ Everything in Pro, plus:
 
 ## General Information
 
-- Subscriptions are billed through your app store or payment provider
+- Subscriptions are billed through Paddle, our payment provider
 - You can upgrade, downgrade, or cancel at any time
 - Downgrades take effect at the end of your current billing period
 - Story limits reset monthly

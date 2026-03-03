@@ -64,8 +64,7 @@ Everything in Pro, plus:
 
 ## Cancellation
 
-- You can cancel your subscription at any time from within the app under **Settings > Account**
-- You can also cancel directly through your Paddle account at [paddle.com](https://www.paddle.com)
+- You can cancel your subscription at any time through your Paddle account at [paddle.com](https://www.paddle.com)
 - After cancellation, your subscription remains active until the end of the current billing period
 - No partial refunds are issued for unused time
 - Downgrades take effect at the end of your current billing period

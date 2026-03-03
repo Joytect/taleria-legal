@@ -69,6 +69,19 @@ Built with Kotlin Multiplatform for a native experience on both platforms.
 
 ---
 
+## AI Content Generation
+
+Taleria uses AI to generate both story text and illustrations. All generated content is:
+
+- **Fictional storybook illustrations** — no real person's likeness is used or generated
+- **Age-appropriate** — stories are designed for children ages 2–9
+- **Moderated** — parents can block specific themes and set content filters via parental controls
+- **Original** — each story and illustration is uniquely generated, not sourced from copyrighted material
+
+The app does not generate human-like faces in realistic form, face swaps, deepfakes, voice impersonations, or any content based on a real person's likeness.
+
+---
+
 ## Safety & Privacy
 
 - Designed for children ages 2–9 under parental supervision

@@ -1,6 +1,6 @@
 # Terms of Service for Taleria
 
-**Last Updated:** March 3, 2026
+**Last Updated:** March 4, 2026
 
 Taleria ("we", "our", or "the app") is a children's storytelling application that generates personalized stories using artificial intelligence. By using Taleria, you agree to the following terms.
 
@@ -22,6 +22,7 @@ This app is designed for children ages 2-9 under adult supervision. Parents and 
 - The free tier is ad-supported with age-appropriate ads; paid tiers (Pro and Max) are ad-free
 - Subscriptions are billed monthly or annually
 - You may cancel your subscription at any time from within the app under **Settings > Account > Manage Subscription**; access continues until the end of the billing period
+- You may delete all your data from within the app under **Settings > Account > Delete All Data**. Data deletion is permanent and cannot be undone. Deleting your data does not cancel your active subscription — you must cancel your subscription separately via Paddle
 - Refunds are handled according to our [Refund Policy](https://joytect.github.io/taleria-legal/refund)
 - We reserve the right to change pricing with reasonable notice
 

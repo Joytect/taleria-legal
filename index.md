@@ -109,6 +109,10 @@ You can delete all your data directly from the app:
 2. Scroll to the **Danger Zone** section
 3. Tap **Delete All Data** and confirm
 
+<p align="center">
+  <img src="assets/screenshots/deleteData.png" alt="Delete All Data screen" width="300">
+</p>
+
 This immediately deletes all local data (stories, profiles, settings) and all cloud data (device identity, usage quotas, subscription mappings).
 
 ### Other Options

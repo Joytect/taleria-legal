@@ -18,6 +18,10 @@ The fastest way to delete your data is directly from the app:
 4. Tap **Delete All Data**
 5. Confirm the deletion in the dialog
 
+<p align="center">
+  <img src="assets/screenshots/deleteData.png" alt="Delete All Data screen" width="300">
+</p>
+
 This will **immediately** delete:
 - All locally stored data (stories, profiles, avatars, settings, orders)
 - All cloud data (device identity, usage quotas, story history, subscription-device mapping)

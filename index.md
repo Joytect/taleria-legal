@@ -1,6 +1,6 @@
 # Privacy Policy for Taleria
 
-**Last Updated:** March 3, 2026
+**Last Updated:** March 4, 2026
 
 Taleria ("we", "our", or "the app") is a children's storytelling application that generates personalized stories using artificial intelligence. This privacy policy explains how we collect, use, and protect information when you use our app.
 
@@ -70,7 +70,7 @@ Taleria is designed for children ages 2-9 under parental supervision. We are com
 - We do not collect personal information directly from children
 - All personal data (child profiles) remains on the device
 - Server-side data uses anonymous device identifiers only
-- Parents can delete all local data at any time through the app
+- Parents can delete all local and cloud data at any time through the app
 - The free tier displays age-appropriate ads; paid tiers are ad-free
 - The app does not use behavioral profiling
 
@@ -80,7 +80,7 @@ If you are located in the European Economic Area (EEA), you have the following r
 
 - **Right of Access**: You may request a copy of the data we hold about you
 - **Right to Rectification**: You may request correction of inaccurate data
-- **Right to Erasure**: You may request deletion of your data (see [Data Deletion](https://joytect.github.io/taleria-legal/delete))
+- **Right to Erasure**: You may delete your data instantly via the in-app "Delete All Data" feature (Settings > Account > Danger Zone), or request deletion by email (see [Data Deletion](https://joytect.github.io/taleria-legal/delete))
 - **Right to Restriction**: You may request that we limit processing of your data
 - **Right to Data Portability**: You may request your data in a portable format
 - **Right to Object**: You may object to the processing of your data
@@ -102,14 +102,19 @@ Parents can:
 
 ## Data Deletion
 
-To delete on-device data:
-1. Open the app
-2. Go to Settings
-3. Delete individual profiles, or uninstall the app
+### In-App Deletion (Recommended)
 
-To request deletion of server-side data, see our [Data Deletion page](https://joytect.github.io/taleria-legal/delete).
+You can delete all your data directly from the app:
+1. Go to **Settings** > **Account**
+2. Scroll to the **Danger Zone** section
+3. Tap **Delete All Data** and confirm
 
-Uninstalling the app removes all locally stored data.
+This immediately deletes all local data (stories, profiles, settings) and all cloud data (device identity, usage quotas, subscription mappings).
+
+### Other Options
+
+- **Uninstall the app** to remove all locally stored data
+- **Email us** if you have already uninstalled — see our [Data Deletion page](https://joytect.github.io/taleria-legal/delete)
 
 ## Data Security
 

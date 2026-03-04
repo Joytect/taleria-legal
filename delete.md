@@ -64,7 +64,6 @@ When you delete your data (in-app or via email), the following will be **permane
 | Data Type | Reason |
 |-----------|--------|
 | Subscription purchase records | Managed by Paddle (our payment provider). Subject to their data retention policies. |
-| Cached story content (R2 storage) | Shared content cache, not linked to individual users. Contains no personal data. |
 
 ---
 

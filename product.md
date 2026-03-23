@@ -114,7 +114,7 @@ The app does not generate human-like faces in realistic form, face swaps, deepfa
 
 ## Contact
 
-**Email:** [joytect25@gmail.com](mailto:joytect25@gmail.com)
+**Email:** [taleriasupport@gmail.com](mailto:taleriasupport@gmail.com)
 
 ---
 

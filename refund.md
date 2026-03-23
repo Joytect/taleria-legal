@@ -21,7 +21,7 @@ Refunds may be considered in the following cases:
 
 ## How to Request a Refund
 
-Contact us at **joytect25@gmail.com** with your account details and reason for the request. We will review each case individually.
+Contact us at **taleriasupport@gmail.com** with your account details and reason for the request. We will review each case individually.
 
 ---
 

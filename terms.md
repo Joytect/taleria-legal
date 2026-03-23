@@ -59,7 +59,7 @@ We may update these terms from time to time. Changes will be reflected in the "L
 
 If you have questions about these terms, please contact us at:
 
-**Email:** joytect25@gmail.com
+**Email:** taleriasupport@gmail.com
 
 ---
 

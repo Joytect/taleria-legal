@@ -80,7 +80,7 @@ Everything in Pro, plus:
 
 If you have questions about pricing, please contact us at:
 
-**Email:** joytect25@gmail.com
+**Email:** taleriasupport@gmail.com
 
 ---
 

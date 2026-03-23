@@ -32,7 +32,7 @@ This will **immediately** delete:
 
 If you have already uninstalled the app and cannot use in-app deletion, send an email to:
 
-**[joytect25@gmail.com](mailto:joytect25@gmail.com?subject=Taleria%20Data%20Deletion%20Request)**
+**[taleriasupport@gmail.com](mailto:taleriasupport@gmail.com?subject=Taleria%20Data%20Deletion%20Request)**
 
 In your email, please include:
 - The subject line: **"Taleria Data Deletion Request"**
@@ -81,7 +81,7 @@ All locally stored data can also be deleted at any time by simply **uninstalling
 
 If you have any questions about data deletion, please contact us at:
 
-**Email:** [joytect25@gmail.com](mailto:joytect25@gmail.com)
+**Email:** [taleriasupport@gmail.com](mailto:taleriasupport@gmail.com)
 
 ---
 

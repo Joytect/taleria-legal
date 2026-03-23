@@ -81,7 +81,7 @@ If you are located in the European Economic Area (EEA), you have the following r
 - **Right to Data Portability**: You may request your data in a portable format
 - **Right to Object**: You may object to the processing of your data
 
-To exercise any of these rights, contact us at **joytect25@gmail.com**. We will respond within 30 days.
+To exercise any of these rights, contact us at **taleriasupport@gmail.com**. We will respond within 30 days.
 
 ## Parental Controls
 
@@ -128,7 +128,7 @@ We may update this privacy policy from time to time. Changes will be reflected i
 
 If you have questions about this privacy policy, please contact us at:
 
-**Email:** joytect25@gmail.com
+**Email:** taleriasupport@gmail.com
 
 ---
 

@@ -19,7 +19,6 @@ This app is designed for children ages 2-9 under adult supervision. Parents and 
 ## 3. Subscriptions and Payments
 
 - Taleria offers free and paid subscription tiers (Pro and Max)
-- The free tier is ad-supported with age-appropriate ads; paid tiers (Pro and Max) are ad-free
 - Subscriptions are billed monthly or annually
 - You may cancel your subscription at any time from within the app under **Settings > Account > Manage Subscription**; access continues until the end of the billing period
 - You may delete all your data from within the app under **Settings > Account > Delete All Data**. Data deletion is permanent and cannot be undone. Deleting your data does not cancel your active subscription — you must cancel your subscription separately via Paddle

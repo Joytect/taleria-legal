@@ -61,9 +61,6 @@ We use third-party services to manage subscriptions and verify entitlements. The
 ### Analytics
 We use Firebase Analytics to collect anonymous usage data such as app opens and feature usage. No personally identifiable information is collected through analytics. This data helps us improve the app experience.
 
-### Advertising
-The free tier of Taleria displays ads. All ads are age-appropriate and comply with children's advertising regulations. Paid subscribers (Pro and Max) do not see ads. No ad-related personal data is collected from children.
-
 ## Children's Privacy (COPPA Compliance)
 
 Taleria is designed for children ages 2-9 under parental supervision. We are committed to protecting children's privacy:
@@ -71,7 +68,6 @@ Taleria is designed for children ages 2-9 under parental supervision. We are com
 - All personal data (child profiles) remains on the device
 - Server-side data uses anonymous device identifiers only
 - Parents can delete all local and cloud data at any time through the app
-- The free tier displays age-appropriate ads; paid tiers are ad-free
 - The app does not use behavioral profiling
 
 ## Your Rights Under GDPR
